@@ -48,7 +48,7 @@
 <h4 align="center"> Ex. 1 rotates clockwise once </h4>
 
 <details>
-  <summary> Working on it chief </summary>
+  <summary> Really cool gif/example-vid is gonna show up soon </summary>
 </details>
 
 <h2 align="center"> Future Plans </h4>
