@@ -1,9 +1,10 @@
 <h1 align="center"> Image Transformer Program (In progress) </h1>
 
-<h2 align="center"> Compression Feature </h4>
+<h2 align="center"> Compression </h4>
 
-<h4 align="center"> This feature compresses an image by a given factor value (multitude in which the image will be compressed) </h4>
-<h4 align="center"> Ex. factor = 2 means the image will be compressed to take up only 1/2 of original storage space </h4>
+<h4 align="center"> This feature uses linear algebra to compress an image by a given factor value </h4>
+<h4 align="center"> Ex. factor = x means the image will be compressed to take up only 1/x of the original's unique pixel storage </h4>
+<h4 align="center"> Note that there is diminishing returns due to the file maintaining the same resolution and that pixel count != local file storage </h4>
 
 <details>
 <summary> Image Examples </summary>
