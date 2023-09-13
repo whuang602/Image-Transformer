@@ -1,4 +1,4 @@
-<h1 align="center"> Image Transformer Program (In progress) </h1>
+<h1 align="center"> Image Transformer Program </h1>
 
 <h2 align="center"> Compression </h4>
 
@@ -45,11 +45,14 @@
 
 <h2 align="center"> Rotation Feature </h4>
 
-<h4 align="center"> This feature rotates an image and produces a new image </h4>
-<h4 align="center"> Ex. 1 rotates clockwise once </h4>
+<h4 align="center"> This feature rotates an image clockwise and produces a new image </h4>
+<h4 align="center"> Ex. input of 1 means 1 clockwise rotate </h4>
 
 <details>
-  <summary> Really cool gif/example-vid is gonna show up soon </summary>
+  <summary> Visual Showcase </summary>
+  <p align="center">
+  <img width="400" height="300" src="/images/rotation_showcase.gif">
+  </p>
 </details>
 
 <h2 align="center"> Future Plans </h4>
